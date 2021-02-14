@@ -78,7 +78,7 @@ def main():
 
     # Find movies locations and generate map
     print('Finding locations...\nPlease wait...')
-    movies = get_movies('locations.list', year, user_location, 10)
+    movies = get_movies('locations.list', year, user_location, 100)
     print('Generating map...')
     set_up_map(movies, year, user_location)
     print(f'Finished. Open {year}_movies_map.html to see the results')
