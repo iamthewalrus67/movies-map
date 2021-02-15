@@ -10,6 +10,8 @@ This is a project for finding nearest movie filming locations around the user.
   
 
 ## Usage
+For this program to work you would need a file locations.list, which you can download using this link: https://drive.google.com/file/d/11KVCDMVb8H0vKzb8bx7VvqOlBUxUfL6x/view?usp=sharing
+
 
 To use this program you firstly need to launch main.py.
 
