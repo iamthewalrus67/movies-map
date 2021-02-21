@@ -50,3 +50,6 @@ Finished. Open 2020_movies_map.html to see the results
 ## Result
 
 ![Alt text](images/result.png)
+
+## License
+[MIT](LICENSE)
